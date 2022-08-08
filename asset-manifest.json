@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HireDevelopers.github.io/static/css/main.73b9b01b.css",
+    "main.js": "/HireDevelopers.github.io/static/js/main.5343a37a.js",
+    "static/js/787.32032a02.chunk.js": "/HireDevelopers.github.io/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/HireDevelopers.github.io/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/HireDevelopers.github.io/index.html",
+    "main.73b9b01b.css.map": "/HireDevelopers.github.io/static/css/main.73b9b01b.css.map",
+    "main.5343a37a.js.map": "/HireDevelopers.github.io/static/js/main.5343a37a.js.map",
+    "787.32032a02.chunk.js.map": "/HireDevelopers.github.io/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73b9b01b.css",
+    "static/js/main.5343a37a.js"
+  ]
+}
